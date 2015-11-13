@@ -12,6 +12,8 @@
     "csv-parser": "^1.7.0",
     "es6-shim": "^0.32.2",
     "glob": "^5.0.14",
+    "mqtt": "^1.4.1",
+    "pheromon-codecs": "0.0.4",
     "requestify": "^0.1.17"
   }
 }
